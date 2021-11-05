@@ -5,7 +5,9 @@ Using Python, Pandas functions and methods, and SQLAlchemy, the data was filtere
 ## Results 
 ### Deliverable One: Determine the Summary Statistics for June
 The built-in statistical data for the temperatures for June were connected, analyzed and shown below.  It is possible to see that 1,700 data points over 2010 to 2017, are collected for June showing a mean temperature of 75 deg F.  This looks optimistic for ice cream sales for the month of June.
-It is important to understand the summer weather for rain or storms as well since another aspect of the business is rental of surfing equipment for tourists, and it is a safe assumption that sales will be slower during periods of rain or precipitation.  Below is a statistical summary of the precipitation information for December.
+It is important to understand the summer weather for rain or storms as well since another aspect of the business is rental of surfing equipment for tourists, and it is a safe assumption that sales will be slower during periods of rain or precipitation.  
+Below is a statistical summary of the precipitation information for December.
+
 ![Fig 1 - June data](https://github.com/ASCHEET/surfs_up/blob/main/Resources/june_describe.png?raw=true)
 
 ### Deliverable Two: Determine the Summary Statistics for December
