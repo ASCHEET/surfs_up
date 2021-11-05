@@ -17,11 +17,9 @@ The built-in statistical data for the temperatures for June were connected, anal
 ![Fig - 4](https://github.com/ASCHEET/surfs_up/blob/main/Resources/july_info.png?raw=true)
 
 ## Summary
-* Based on the data for the months of June, July, February and December that was filtered, the climate in Hawaii is ideal for a small business of surfing equipment rental and ice cream sales.  Based on the data the 
-June Temps | July Temps | December Temps | February Temps
-| Mean Temp | Mean Temp | Mean Temp | Mean Temp
-75 deg F  | 76 deg F | 71 deg F | 71 deg F
-Content Cell  | Content Cell | Content Cell
+* Based on the data for the months of June, July, February and December that was filtered, the climate in Hawaii is ideal for a small business of surfing equipment rental and ice cream sales.  Based on the data the temperatures are between 69 -76 deg F.  These temperatures are very good for year round temperatures a small business that will sell ice cream and rent surfing equipment.
+* The precipitation data was evaluated to determine when what months might have high rainfall and that could adversly affect the surfing equipment.  Knowing that the maximum rainfall appears to be July.  It would be an expected trend to see a decrease or lull in equipment rentals if there are more rain days in July.
+* It would be interesting to see how the equipment rental and surfing equipment trend to each other.  They may be a case to be made that when equipment sales are slow maybe the ice cream sales will increase.
 
 
 
