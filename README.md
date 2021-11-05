@@ -12,6 +12,7 @@ Below is a statistical summary of the precipitation information for December.
 
 ### Deliverable Two: Determine the Summary Statistics for December
 The built-in statistical data for the temperatures for December were collected, analyzed, and shown below.  The data was filtered for December showing a mean temperature of 71 deg F.  This is still quite mild for equipment and ice cream sales.  Taking into account the main customers are tourists the strength of wanting to attempt to surf could facilitate activity even if the weather is cool.
+
 ![Fig 2 - Dec data](https://github.com/ASCHEET/surfs_up/blob/main/Resources/dec_describe.png?raw=true)
 
 ### Additional deliverables: Additional data for July and February.
@@ -21,7 +22,8 @@ The built-in statistical data for the temperatures for December were collected, 
 ## Summary
 * Based on the data for the months of June, July, February and December that was filtered, the climate in Hawaii is ideal for a small business of surfing equipment rental and ice cream sales.  Based on the data the temperatures are between 69 -76 deg F.  These year round temperatures seem ideal for a small business that intends to sell ice cream and rent surfing equipment.
 * The precipitation data was evaluated to determine when what months might have high rainfall and that could adversely affect the surfing equipment rental business.  Knowing that the maximum rainfall appears to be July with 11.5 inches.  It would be an expected trend to see a decrease or lull in equipment rentals if there are more rain days in July.
-* It would be interesting to see how the equipment rental and surfing equipment trend to each other.  They may be a case to be made that when equipment sales are slow maybe the ice cream sales will increase.  Based on the cooler temperatures in the winter, it doesn't eliminate the opportunity for tourists to surf.  Sales could be increased in cooler months, if wetsuits were available (at additional cost) that could keep surfing enthusiasts warm.  This would help ensure more consistent 'year round' sales and predictability for budget estimating, something all small business owners rely on.
+* It would be interesting to see how the equipment rental and surfing equipment trend to each other.  They may be a case to be made that when equipment sales are slow maybe the ice cream sales will increase.  
+* Based on the cooler temperatures in the winter, it doesn't eliminate the opportunity for tourists to surf.  Sales could be increased in cooler months, if wetsuits were available (at additional cost) that could keep surfing enthusiasts warm.  This would help ensure more consistent 'year round' sales and predictability for budget estimating, something all small business owners rely on.
 
 
 
